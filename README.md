@@ -23,7 +23,7 @@ Le gain dépend largement du partage d'information, actuellement diffusé à tou
 
 ![Comparaison v2](docs/assets/comparaison_v2.png)
 
-[Résultats et limites](docs/RESULTATS_V2.md) · [Modèle](docs/MODELE.md) · [Reproduction](docs/REPRODUIRE.md) · [Feuille de route](docs/ROADMAP.md)
+[Résultats et limites](docs/RESULTATS_V2.md) · [Modèle](docs/MODELE.md) · [Paramètres et sources](docs/PARAMETRES.md) · [Reproduction](docs/REPRODUIRE.md) · [Feuille de route](docs/ROADMAP.md)
 
 ## Démarrer sur CPU
 
